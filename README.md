@@ -25,7 +25,7 @@ junior-prep is a website for junior web developers to practice interview questio
         -   designer (not only design but also track the project's progress and ensure the best user experience)
         -   frontend
         -   backend
-        -   fullsatck
+        -   fullstack
 
 ## How can I contribute?
 
